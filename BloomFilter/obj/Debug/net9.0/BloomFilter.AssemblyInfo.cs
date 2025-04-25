@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BloomFilter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c21925c54cda553fb30845cf2ffebfa867a332ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fac75e622f1802f04e9eefd40dca23b768fbf3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BloomFilter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BloomFilter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

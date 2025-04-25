@@ -2,9 +2,9 @@ namespace BloomFilter.HashFunctions;
 
 public class Sdbm
 {
-    public static ulong Hash(string input)
+    public static uint Hash(string input)
     {
-        ulong hash = 65599; //prime
+        uint hash = 65599; //prime
         
         foreach (char c in input)
         {
@@ -15,3 +15,4 @@ public class Sdbm
         return hash;
     }
 }
+

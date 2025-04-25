@@ -19,13 +19,14 @@ class Program
           */
         
         
-        Core.BloomFilter b = new(100,0.99);
+        Core.BloomFilter b = new(10000);
         
         b.Add("a");
         b.Add("b");
+        b.Add("c");
         
-        Console.WriteLine(b.Contains("c")); // true because fails
-        Console.WriteLine(b.Contains("d")); // true because fails
+        Console.WriteLine(b.PossiblyContains("c")); // true because fails
+        Console.WriteLine(b.PossiblyContains("d")); // true because fails
 
     }
 }
