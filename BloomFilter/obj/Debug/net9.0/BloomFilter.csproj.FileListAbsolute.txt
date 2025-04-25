@@ -1,0 +1,14 @@
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/bin/Debug/net9.0/BloomFilter
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/bin/Debug/net9.0/BloomFilter.deps.json
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/bin/Debug/net9.0/BloomFilter.runtimeconfig.json
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/bin/Debug/net9.0/BloomFilter.dll
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/bin/Debug/net9.0/BloomFilter.pdb
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/obj/Debug/net9.0/BloomFilter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/obj/Debug/net9.0/BloomFilter.AssemblyInfoInputs.cache
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/obj/Debug/net9.0/BloomFilter.AssemblyInfo.cs
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/obj/Debug/net9.0/BloomFilter.csproj.CoreCompileInputs.cache
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/obj/Debug/net9.0/BloomFilter.dll
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/obj/Debug/net9.0/refint/BloomFilter.dll
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/obj/Debug/net9.0/BloomFilter.pdb
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/obj/Debug/net9.0/BloomFilter.genruntimeconfig.cache
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/obj/Debug/net9.0/ref/BloomFilter.dll
