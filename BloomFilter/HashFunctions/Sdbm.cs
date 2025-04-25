@@ -8,7 +8,8 @@ public class Sdbm
         
         foreach (char c in input)
         {
-            hash = c + (hash << 6) + (hash << 16) - hash; // hash * 2^6 + hash * 2^16 - hash
+            hash = c + (hash << 6) + (hash << 16) - hash;
+            // each << is equal to multiplying by 2, so basically hash * 64;
         }
 
         return hash;

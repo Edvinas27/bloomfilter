@@ -12,3 +12,4 @@
 /Users/edvinas/RiderProjects/BloomFilter/BloomFilter/obj/Debug/net9.0/BloomFilter.pdb
 /Users/edvinas/RiderProjects/BloomFilter/BloomFilter/obj/Debug/net9.0/BloomFilter.genruntimeconfig.cache
 /Users/edvinas/RiderProjects/BloomFilter/BloomFilter/obj/Debug/net9.0/ref/BloomFilter.dll
+/Users/edvinas/RiderProjects/BloomFilter/BloomFilter/obj/Debug/net9.0/BloomFilter.sourcelink.json

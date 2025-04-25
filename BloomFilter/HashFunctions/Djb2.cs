@@ -7,7 +7,7 @@ public static class Djb2
         ulong hash = 5381; // prime
         foreach (char c in input)
         {
-            hash = (hash << 5) + hash + c; // hash * 33 + c // hash << 5 = hash * 2^5
+            hash = (hash << 5) + hash + c;
         }
 
         return hash;
